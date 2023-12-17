@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "EB-RH850F1KMS1")(type "KiCad")(uri "${KIPRJMOD}/EB-RH850F1KMS1.pretty")(options "")(descr ""))
+)
